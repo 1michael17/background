@@ -9,6 +9,7 @@ let color2 = document.querySelector(".color2");
 let wrte = document.querySelector(".styled");
 // let color3 = document.querySelector(".color3");
 let body = document.getElementById("gradient");
+
 //
 
 function setG() {
